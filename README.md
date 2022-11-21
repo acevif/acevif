@@ -1,4 +1,4 @@
-### Hi there 👋
+[![acevif's GitHub stats](https://github-readme-stats.vercel.app/api?username=acevif)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **acevif/acevif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![acevif's GitHub stats](https://github-readme-stats.vercel.app/api?username=acevif)](https://github.com/anuraghazra/github-readme-stats)
